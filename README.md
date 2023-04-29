@@ -26,7 +26,7 @@ This project is a face recognition attendance system that uses the face recognit
 4. Run the following command:
 
    ```bash
-   python main.py
+   python AttendanceProject.py
    ```
 
 5. The system will start the webcam and recognize individuals in front of the camera. If the individual is recognized, the system will mark their attendance in the `Attendance.csv` file.
